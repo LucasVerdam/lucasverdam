@@ -13,7 +13,7 @@ Web Systems Technology student with focus on web and mobile development</h1>
 
 Thank You for viewing my GitHub Profile, hope you enjoy it! 
 
-Wanna talk with me? Don't hesitate to send me a message on the channels below 👇
+Wanna contact me? Don't hesitate to send me a message on the channels below 👇
 
 <h2 align="center">You can also find me there:</h2>
 <p align="center">
@@ -24,11 +24,11 @@ Wanna talk with me? Don't hesitate to send me a message on the channels below �
 
 <h2 align="center">A little about myself</h2>
 
-- 👩‍💻 I'm currently finishing graduation on Web Systems Technology and working on projects in there. You can check them out in my repositories!! 
+- 👩‍💻 Recently finished graduation on Web Systems Technology. 
 
-- 🤝 I’m looking for my first job or internship vacancy.
+- 🤝 Looking for my first job or internship vacancy.
 
-- 💡 I like to have ideas of new apps, sites, softwares that can bring innovation and then make it real. I also like to learn about people, culture and the universe☄️
+- 💡 Always working on projects. I like having ideas of new apps, sites, softwares that can bring innovation and then make it real. You can check them out in my repositories!! I also like to learn about people, culture and the universe☄️
 
 
 
