@@ -43,10 +43,20 @@ Thank You for viewing my GitHub Profile, hope you enjoy!
 Don't hesitate to send me a message on the channels below 👇
 
 <p align="center">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucanis12t@gmail.com" alt="Gmail"/></a>
+  
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucas-verdam-207b67230/" alt="LinkedIn"/></a>
+  
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://instagram.com/restful_cat/)" alt="Instagram"/></a>
+</p>
+
+<p align="center">
 <a href="https://linkedin.com/in/lucas-verdam-207b67230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-verdam" height="30" width="40" /></a>
 <a href="https://instagram.com/restful_cat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="restful_cat" height="30" width="40" /></a>
-<a href = 'https://www.github.com/LucasVerdam'> <img width = '44px' align= 'center' src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966"/></a>
-</p>
+
 
 <h2 align="center"> My GitHub Stats </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
