@@ -1,5 +1,5 @@
 <h1 align='center'> Hello, I'm Lucas Verdam <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
-I have a degree in Web Systems Technology, with focus on web and mobile development</h1>
+I'm a graduated Web Systems Technologist with focus on web and mobile development</h1>
 
 <div align="center">
 <img width="221px" height = "221px" src="https://avatars.githubusercontent.com/u/70668314?v=4" alt="cover" />
