@@ -1,5 +1,5 @@
 <h1 align='center'> Hello, I'm Lucas Verdam <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br /> 
-Web Systems Technology student with focus on web and mobile development</h1>
+I have a degree in Web Systems Technology, with focus on web and mobile development</h1>
 
 <div align="center">
 <img width="221px" height = "221px" src="https://avatars.githubusercontent.com/u/70668314?v=4" alt="cover" />
@@ -13,7 +13,7 @@ Web Systems Technology student with focus on web and mobile development</h1>
 
 Thank You for viewing my GitHub Profile, hope you enjoy it! 
 
-Wanna contact me? Don't hesitate to send me a message on the channels below 👇
+Don't hesitate to send me a message on the channels below 👇
 
 <h2 align="center">You can also find me there:</h2>
 <p align="center">
