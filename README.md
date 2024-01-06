@@ -38,9 +38,9 @@ Thank You for viewing my GitHub Profile, hope you enjoy!
 <br>
 </p>
 
-<h2 align="center">You can also find me there:</h2>
+<!--<h2 align="center">You can also find me there:</h2>
 
-<p align="center">Don't hesitate to send me a message on the channels below 👇</p>>
+<p align="center">Don't hesitate to send me a message on the channels below 👇</p>
 
 <p align="center">
   <a href="#" title="Gmail">
@@ -51,7 +51,7 @@ Thank You for viewing my GitHub Profile, hope you enjoy!
   
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://instagram.com/restful_cat/)" alt="Instagram"/></a>
-</p>
+</p> -->
 
 
 
