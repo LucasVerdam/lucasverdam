@@ -40,7 +40,7 @@ Thank You for viewing my GitHub Profile, hope you enjoy!
 
 <h2 align="center">You can also find me there:</h2>
 
-Don't hesitate to send me a message on the channels below 👇
+<p align="center">Don't hesitate to send me a message on the channels below 👇</p>>
 
 <p align="center">
   <a href="#" title="Gmail">
@@ -53,9 +53,6 @@ Don't hesitate to send me a message on the channels below 👇
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://instagram.com/restful_cat/)" alt="Instagram"/></a>
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/lucas-verdam-207b67230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-verdam" height="30" width="40" /></a>
-<a href="https://instagram.com/restful_cat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="restful_cat" height="30" width="40" /></a>
 
 
 <h2 align="center"> My GitHub Stats </h2>
