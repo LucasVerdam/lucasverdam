@@ -7,7 +7,7 @@ I'm a graduated Web Systems Technologist with focus on web and mobile developmen
 
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LucasVerdam/lucasverdam)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LucasVerdam.lucasverdam)
 
 </p>
 
