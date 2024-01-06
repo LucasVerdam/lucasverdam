@@ -19,11 +19,13 @@ I'm a graduated Web Systems Technologist with focus on web and mobile developmen
 
 - 💡 Always working on projects. I like having ideas of new apps, sites, softwares that can bring innovation and then make it real. You can check them out in my repositories!! I also like to learn about people, culture and the universe☄️
 
-Thank You for viewing my GitHub Profile, hope you enjoy it! 
+Thank You for viewing my GitHub Profile, hope you enjoy! 
+
+
+<h2 align="center">You can also find me there:</h2>
 
 Don't hesitate to send me a message on the channels below 👇
 
-<h2 align="center">You can also find me there:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/lucas-verdam-207b67230/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucas-verdam" height="30" width="40" /></a>
 <a href="https://instagram.com/restful_cat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="restful_cat" height="30" width="40" /></a>
