@@ -38,7 +38,7 @@ Thank You for viewing my GitHub Profile, hope you enjoy!
 <br>
 </p>
 
-<!--<h2 align="center">You can also find me there:</h2>
+<h2 align="center">You can also find me there:</h2>
 
 <p align="center">Don't hesitate to send me a message on the channels below 👇</p>
 
@@ -51,14 +51,14 @@ Thank You for viewing my GitHub Profile, hope you enjoy!
   
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://instagram.com/restful_cat/)" alt="Instagram"/></a>
-</p> -->
+</p> 
 
 
 
-<h2 align="center"> My GitHub Stats </h2>
+<!--<h2 align="center"> My GitHub Stats </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasVerdam&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVerdam&theme=radical" />
-</a>
+</a> -->
